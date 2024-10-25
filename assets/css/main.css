@@ -1947,7 +1947,7 @@ input, select, textarea {
 		input[type="radio"]:checked + label:before {
 			background: #989898;
 			border-color: #989898;
-			color: #ffffff;
+			color: #e1fcfc;
 			content: '\f00c';
 		}
 
