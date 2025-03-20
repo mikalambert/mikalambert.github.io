@@ -98,7 +98,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #404040;
+		color: #292828;
 		font-family: "Lato", sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -121,7 +121,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #5f5666;
+		color: #1d1426;
 		font-weight: 700;
 	}
 
@@ -134,7 +134,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #5f5666;
+		color: #1d1426;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -201,7 +201,7 @@ input, select, textarea {
 	}
 
 	code {
-		background: #555;
+		background: #1d1426;
 		border-radius: 5px;
 		color: #fff;
 		font-family: "Source Code Pro", monospace;
@@ -1790,7 +1790,7 @@ input, select, textarea {
 	}
 
 		header.major h2 + p {
-			color: #5f5666;
+			color: #1d1426;
 			font-size: 1.75em;
 			font-weight: 700;
 			margin-top: -0.75em;
@@ -1803,7 +1803,7 @@ input, select, textarea {
 	}
 
 	label {
-		color: #5f5666;
+		color: #1d1426;
 		display: block;
 		font-size: 0.9em;
 		font-weight: 700;
@@ -1862,7 +1862,7 @@ input, select, textarea {
 	}
 
 		select option {
-			color: #5f5666;
+			color: #1d1426;
 			background: #fff;
 		}
 
@@ -1902,7 +1902,7 @@ input, select, textarea {
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #404040;
+			color: #292828;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -2463,7 +2463,7 @@ input, select, textarea {
 		}
 
 		table th {
-			color: #5f5666;
+			color: #1d1426;
 			font-size: 0.9em;
 			font-weight: 700;
 			padding: 0 0.75em 0.75em 0.75em;
@@ -2589,7 +2589,7 @@ input, select, textarea {
 		.button.alt {
 			background-color: transparent;
 			box-shadow: inset 0 0 0 2px #e4e4e4;
-			color: #5f5666 !important;
+			color: #1d1426 !important;
 		}
 
 			input[type="submit"].alt:hover,
@@ -2597,7 +2597,7 @@ input, select, textarea {
 			input[type="button"].alt:hover,
 			.button.alt:hover {
 				background-color: #f4f4f4;
-				color: #5f5666 !important;
+				color: #1d1426 !important;
 			}
 
 			input[type="submit"].alt:active,
@@ -2643,7 +2643,7 @@ input, select, textarea {
 		input[type="button"]:disabled,
 		.button.disabled,
 		.button:disabled {
-			background-color: #404040 !important;
+			background-color: #292828 !important;
 			box-shadow: inset 0 -0.15em 0 0 rgba(0, 0, 0, 0.15);
 			color: #fff !important;
 			cursor: default;
